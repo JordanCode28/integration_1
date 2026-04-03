@@ -1,0 +1,15 @@
+/* Nav */
+nav {
+    width: 25%;
+    background-color: #4a4a4a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 500px;
+    color: white;
+}
+
+/* Contenu droit */
+nav + div {
+    width: 75%;
+}

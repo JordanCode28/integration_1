@@ -1,0 +1,7 @@
+/* Section Info */
+body > section {
+    background-color: purple;
+    color: white;
+    padding: 80px 20px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+/* SECTION SERVICES */
+nav + div section:last-child > h2 {
+    background-color: green;
+    padding: 10px;
+    color: white;
+}
+
+section:last-child > div {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    gap: 15px;
+}
+
+article {
+   width: 33%;
+   background-color: #8cff4f;
+   padding: 80px 10px;
+   color: white;
+}
